@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-fb@+(@c+36rai+rw4rz((n3l5q^pac%c_tn1ks4w0$zn5edt1x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 ALLOWED_HOSTS = ['MariiamYasserr.pythonanywhere.com']
-os.environ['DJANGO_SETTINGS_MODULE'] = 'config.settings'
+
 # Application definition
 
 INSTALLED_APPS = [
